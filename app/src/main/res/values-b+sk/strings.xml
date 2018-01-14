@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moja aplikácia</string>
+    <string name="edit_message">Zadajte správu</string>
+    <string name="button_send">Pošli</string>
+</resources>
